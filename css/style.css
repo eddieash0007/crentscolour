@@ -239,7 +239,7 @@ h5 {
 }
 
 .box-primary-nav-trigger .box-menu-text {
-    color: #393939;
+    color: #fff;
     text-transform: uppercase;
     font-weight: 700;
     display: none;
@@ -909,14 +909,14 @@ footer img {
 }
 
 .top-bar p {
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #FF49EE;
+    color: #fe49e7;
 }
 
 .top-bar p a {
-    color: #777;
+    color: #fff;
 }
 
 .top-bar p a:hover,
